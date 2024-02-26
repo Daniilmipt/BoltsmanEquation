@@ -1,1 +1,2 @@
-# BoltsmanEquation
+# gaz_relaxation
+Задача релаксации
